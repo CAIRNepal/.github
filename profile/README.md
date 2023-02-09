@@ -7,6 +7,10 @@ CAIR-Nepal, which stands for Center for Artificial Intelligence (AI) Research Ne
 
 CAIR-Nepal believes that only by being inclusive and fair can the true benefits of AI be realized in a way that benefits everyone. Therefore, CAIR-Nepal is deeply committed to ethical and responsible AI and embraces responsible AI as a major research focus. The other research foci of CAIR-Nepal are human-centered AI, applied AI, and digital healthcare.
 
+🌐 [https://www.cair-nepal.org/](https://www.cair-nepal.org/)
+
+📹 [https://www.youtube.com/@cair-nepal](https://www.youtube.com/@cair-nepal)
+
 <!--
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
