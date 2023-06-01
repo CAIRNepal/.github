@@ -9,6 +9,8 @@ CAIR-Nepal believes that only by being inclusive and fair can the true benefits 
 
 🌐 [https://www.cair-nepal.org/](https://www.cair-nepal.org/)
 
+🌐 [https://zenodo.org/communities/cair-nepal/](https://zenodo.org/communities/cair-nepal/) 
+
 📹 [https://www.youtube.com/@cair-nepal](https://www.youtube.com/@cair-nepal)
 
 <!--
